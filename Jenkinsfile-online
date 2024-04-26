@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'gitee-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'registry.cn-hangzhou.aliyuncs.com'
-        DOCKERHUB_NAMESPACE = 'yezhinoo/gulimall'
+        DOCKERHUB_NAMESPACE = 'yezhinoo'
         GITHUB_ACCOUNT = 'yezhinooo@gmail.com'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = "sonar-token"
