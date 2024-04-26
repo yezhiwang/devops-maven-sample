@@ -13,7 +13,7 @@ pipeline {
         DOCKER_CREDENTIAL_ID = 'aliyun-id'
         GITHUB_CREDENTIAL_ID = 'gitee-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
-        REGISTRY = 'docker.io'
+        REGISTRY = 'registry.cn-hangzhou.aliyuncs.com'
         DOCKERHUB_NAMESPACE = 'yezhinoo/gulimall'
         GITHUB_ACCOUNT = 'yezhinooo@gmail.com'
         APP_NAME = 'devops-java-sample'
